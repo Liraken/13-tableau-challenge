@@ -4,6 +4,7 @@
 ## File Location
 - In Images you can find all images used in the readme as well as the story
 - In 'The Down Turn of Winter.url' you can find a link to where you can find my project
+	- https://public.tableau.com/app/profile/riley.capps/viz/TheDownTurnofWinter/CitiBikeDownTurnofWinter?publish=yes
 - In 'dataClensing.py you can find the code I used to cut down the two csv's I used for this project
 - In 'plan.txt you can find some inital notes I made for this project
 
