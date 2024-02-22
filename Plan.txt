@@ -1,0 +1,27 @@
+Plan
+
+1)Which if the two months chosen has the highest usage
+	1)Compare member vs casual across stations?
+	2)Which time of the day is the buisiest?
+	3)Is that time the same in the winter?
+	4)
+
+2)What are the most popular starting stations?
+	2)Do these change between Summer and Winter?
+	3)Chart the top five stations for both months by time of day
+	4)
+
+
+Story Layout
+
+Header page
+	1)Title
+	2)Image
+Statement page
+	1)What are the differences between winter and summer usage
+	2)What do they mean?
+Information Pages
+	Most popular Stations by season
+	What times of days are in the highest demand
+Conclusion Page
+	

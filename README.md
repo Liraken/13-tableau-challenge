@@ -2,16 +2,18 @@
 ![CitiBike Header IMG](Images/citi-bike-station-bikes.jpg)
 
 ## File Location
-- In Images you can find some instructional images I used in the readme
-- In 'Starter_Code' you can find.......
-- In 'Refrences' you can find......
-- In 'Placeholder' you can find.....
-- In 'Placeholder' you can find.....
+- In Images you can find all images used in the readme as well as the story
+- In 'The Down Turn of Winter.url' you can find a link to where you can find my project
+- In 'dataClensing.py you can find the code I used to cut down the two csv's I used for this project
+- In 'plan.txt you can find some inital notes I made for this project
 
 ## Sources
-- ******************
-- ******************
-- ******************
+- https://citibikenyc.com/system-data
+- Images pulled from
+	1) https://pngtree.com/freepng/bicycle-silhouette-girl-riding-bicycle_6569050.html
+	2) https://www.freevector.com/fun-mountain-bike-vector-30073
+	3) https://www.vectorstock.com
+
 
 ## Background
 Congratulations on your new job! As the new lead analyst for the New York Citi BikeLinks to an external site. program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
